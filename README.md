@@ -33,7 +33,7 @@
 ### Redes Sociais
 <div align="center">
 <a href="https://www.instagram.com/caioopropio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.tiktok.com/@caioreis_dev?is_from_webapp=1&sender_device=pc" target="_blank"><img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
+<a href="https://www.tiktok.com/@caioreis_dev?is_from_webapp=1&sender_device=pc" target="_blank"><img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" target="_blank"></a>
 <a href="https://www.linkedin.com/in/caio-reis-4b165026b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
 
@@ -43,4 +43,4 @@
 </div>
 ---
 
-<p align="center">Vamos colaborar e realizar projetos incríveis juntos!</p>
+<p align="center">See you space cowboy!</p>

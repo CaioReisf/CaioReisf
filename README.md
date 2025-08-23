@@ -1,4 +1,4 @@
-## oi, Caio Reis aqui!
+## Olá, sou o Caio Reis!
 
 ### Linguagens de Programação e Frameworks:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)

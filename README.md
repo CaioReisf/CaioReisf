@@ -22,8 +22,8 @@
 ## Estatísticas do GitHub
 
 <div align="center">
-<img width=48% src="https://github-readme-streak-stats.herokuapp.com?user=RicardoMouraa&theme=dracula&mode=weekly" alt="GitHub Streak Stats" />
-<img width=48% src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoMouraa&show_icons=true&theme=dracula&layout=compact" alt="Top Languages" />
+<img width=48% src="https://github-readme-streak-stats.herokuapp.com?user=CaioReisf&theme=dracula&mode=weekly" alt="GitHub Streak Stats" />
+<img width=48% src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioReisf&show_icons=true&theme=dracula&layout=compact" alt="Top Languages" />
 </div>
 
 ---
